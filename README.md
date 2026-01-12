@@ -70,5 +70,5 @@ I am a final-year **B.Sc. Computer Science** student passionate about bridging t
 
 ### 📫 Connect with me
 
-* **LinkedIn:** [Your LinkedIn URL]
-* **Email:** [Your Email Address]
+* **LinkedIn:** [(https://www.linkedin.com/in/rishabhmourya17)]
+* **Email:** [rishabhmourya018@gmail.com]
