@@ -25,14 +25,14 @@ I am a final-year **B.Sc. Computer Science** student exploring the intersection 
 
 I enjoy building **end-to-end data workflows**, starting from raw datasets and ending with structured insights, visualizations, and AI-generated summaries.
 
-Currently, I am strengthening my fundamentals in **Python, SQL, ETL pipelines, streaming concepts, and cloud-based systems** to prepare for data-focused roles.
+Currently, I am strengthening my fundamentals in **Python, SQL, ETL pipelines, streaming concepts, and cloud-based systems**.
 
 
 <br/>
 
 ## 💻 Tech Stack
 
-### 🧠 Core Programming & Querying
+### 🧠 Core Programming & Querying 
 *Primary skills - Foundation of everything I build*
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -69,7 +69,7 @@ Currently, I am strengthening my fundamentals in **Python, SQL, ETL pipelines, s
 ---
 
 ### 🔄 Data Engineering
-*Building scalable data pipelines - Currently mastering*
+*Building scalable data pipelines*
 
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
