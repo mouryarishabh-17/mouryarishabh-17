@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="www.linkedin.com/in/rishabhmourya17" target="_blank">
+  <a href="https://www.linkedin.com/in/rishabhmourya17/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rishabhmourya018@gmail.com">
@@ -47,7 +47,6 @@ Currently, I am strengthening my fundamentals in **Python, SQL, ETL pipelines, s
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
@@ -104,7 +103,6 @@ Currently, I am strengthening my fundamentals in **Python, SQL, ETL pipelines, s
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A67E?style=for-the-badge&logo=googlebard&logoColor=white)
 ![GenAI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ---
 
@@ -135,8 +133,4 @@ Currently, I am strengthening my fundamentals in **Python, SQL, ETL pipelines, s
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=100&section=footer" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=64FFDA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
