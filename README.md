@@ -1,55 +1,120 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=200&section=header&text=Hi,%20I'm%20Rishabh!&fontSize=50&fontColor=64FFDA&animation=twinkling&fontAlignY=35&desc=Data%20Engineer%20|%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=200&section=header&text=Hi,%20I'm%20Rishabh!&fontSize=50&fontColor=00FF9F&animation=twinkling&fontAlignY=35&desc=%20%20%20%20&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=64FFDA&background=0D111700&center=true&vCenter=true&multiline=false&width=600&lines=Aspiring+Data+Analyst;Data+Engineer;Building+GenAI+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9FA&background=0D111700&center=true&vCenter=true&multiline=false&width=600&lines=Aspiring+Data+Analyst;Data+Engineer;GenAI+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=64FFDA&labelColor=0D1117" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rishabh@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=64FFDA&labelColor=0D1117" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
 <br/>
 
-## 🎯 Executive Summary
-```css
-/* SYSTEM.PROFILE.LOAD → COMPLETE */
-```
+## 🎯 About Me
 
-I'm **Rishabh Mourya**, a Final Year B.Sc. Computer Science student breaking free from theoretical boundaries to architect **real-world data systems**. My journey: **Ingestion → Analysis → AI**.
+I am a final-year **B.Sc. Computer Science** student exploring the intersection of **data engineering, analytics, and applied AI**.
 
-I'm not just learning technologies—I'm **building production-grade pipelines**, engineering scalable ETL workflows, and deploying GenAI systems. From Kafka streams to LLM-powered analytics, I'm crafting the fundamentals today for enterprise-scale data infrastructure tomorrow.
+I enjoy building **end-to-end data workflows**, starting from raw datasets and ending with structured insights, visualizations, and AI-generated summaries.
 
-**Mission:** Transform from student to job-ready **Data & AI Professional** who ships working solutions, not just slides.
+Currently, I am strengthening my fundamentals in **Python, SQL, ETL pipelines, streaming concepts, and cloud-based systems** to prepare for data-focused roles.
 
-> *"Building fundamentals today for scalable data systems tomorrow."*
 
 <br/>
 
-## ⚡ Tech Stack
+## 💻 Tech Stack
 
-### 🛠️ Core Technologies
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,aws,gcp,linux,git,fastapi&theme=dark" />
-</div>
+### 🧠 Core Programming & Querying
+*Primary skills - Foundation of everything I build*
 
-### 💎 Power Skills
-<div align="center">
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=64FFDA&labelColor=0D1117" alt="Apache Spark"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=64FFDA&labelColor=0D1117" alt="Apache Kafka"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=64FFDA&labelColor=0D1117" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=64FFDA&labelColor=0D1117" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=64FFDA&labelColor=0D1117" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=anthropic&logoColor=64FFDA&labelColor=0D1117" alt="LLMs"/>
-</div>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📊 Data Analysis & Visualization
+*Turning raw data into insights*
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+### ⚙️ Backend & APIs
+*Supporting data workflows & system integration*
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+### 🗄️ Databases
+*Analytics, storage & pipeline optimization*
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+### 🔄 Data Engineering
+*Building scalable data pipelines - Currently mastering*
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+
+---
+
+### ☁️ Cloud & Operating Systems
+*Deploying & scaling on cloud infrastructure*
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🌐 Web Fundamentals
+*Supporting skills for full-stack awareness*
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🤖 AI & Generative AI
+*Applied AI engineering & LLM integration*
+
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A67E?style=for-the-badge&logo=googlebard&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+
+---
+
+### 🛠️ Tools & Version Control
+*Collaboration & development workflow*
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <br/>
 
