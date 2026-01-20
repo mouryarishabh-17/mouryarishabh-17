@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=200&section=header&text=Hi,%20I'm%20Rishabh!&fontSize=50&fontColor=00FF9F&animation=twinkling&fontAlignY=35&desc=%20%20%20%20&descAlignY=55&descSize=18" width="100%"/>
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Hi+I'm+Rishabh+Mourya!+%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9FA&background=0D111700&center=true&vCenter=true&multiline=false&width=600&lines=Aspiring+Data+Analyst;Data+Engineer;GenAI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FF9FA&background=0D111700&center=true&vCenter=true&multiline=false&width=600&lines=Aspiring+Data+Analyst;Data+Engineer;GenAI+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -116,7 +116,7 @@ Currently, I am strengthening my fundamentals in **Python, SQL, ETL pipelines, s
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <div align="center">
 
@@ -130,7 +130,3 @@ Currently, I am strengthening my fundamentals in **Python, SQL, ETL pipelines, s
 <br/>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=100&section=footer" width="100%"/>
-</div>
